@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sat Jun 01 14:53:47 CEST 2024","Sat Jun 01 14:53:53 CEST 2024","5974","tests.pozioma_A","33. Czy tabele, które prezentują dane, posiadają odpowiednio zdefiniowane nagłówki, które są połączone z danymi?","","","","Strona główna","Test sprawdza, czy tabele na stronie są poprawnie opisane w kodzie."

@@ -1,0 +1,2 @@
+Tabela 1:
+Niektóre nagłówki <th> w tabeli 1 nie mają atrybutu <scope>.
